@@ -1,7 +1,14 @@
 Replace this with a list of your favorite things.
-1 food
-   1a biriyani
-   1b pizza
-2 places
-3 prabhas
-4 github
+* Item 1
+
+* Item 2
+
+  * Item 2a
+
+  * Item 2b
+  
+* Item 3
+
+* Item 4
+
+
